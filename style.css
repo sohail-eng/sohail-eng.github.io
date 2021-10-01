@@ -1,0 +1,73 @@
+.dive{
+    height: 600px;
+    width: 230px;
+    background-color: white;
+}
+.main{
+    height: 870px;
+    width: 850px;
+    background-color: whitesmoke;
+}
+#titleDiv{
+    height: 20px;
+    width: 700px;
+    margin-left: 50px;
+    margin-top: 5px;
+    text-align: center;
+    padding: 15px;
+    font-size:30px;
+}
+#contactinfo{
+    height: 20px;
+    width: 750px;
+    margin-left: 50px;
+    margin-top: 0px;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
+#detailandpic{
+    height: 220px;
+    width: 750px;
+    margin-left: 50px;
+    margin-top: 0px;
+    text-align: left;
+    padding: 0px;
+    padding-left: 20px;
+    font-size: 20px;  
+}
+#personalinfo{
+    text-align: left;
+    width: 400px;
+    border-style: solid;
+    border-collapse: collapse;
+}
+.bord{
+    border-style: solid;
+}
+.heading1
+{
+    font-style:italic;
+}
+.head{
+    font-size: 16px;
+    border-style: solid;
+    width: 150px;
+    padding: 5px;
+    margin-left: 70px;
+    margin-top: 3px;
+}
+#education{
+    height: 100px;
+    width: 730px;
+    margin-left: 70px;
+    margin-top: 0px;
+    text-align: left;
+    font-size: 16px; 
+    border-style: solid;
+    border-collapse: collapse;
+}
+#skills{
+    margin-left: 80px;
+    font-size: 16px;
+}
