@@ -1,4 +1,7 @@
 
+#bodystyle{
+    font-family: Arial, Helvetica, sans-serif;
+}
 .main{
     height:fit-content;
     width:fit-content;
